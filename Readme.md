@@ -36,6 +36,7 @@ Navigate to the code_generator_agent/agent
 cd code_generator_agent/agent/
 ```
 
+Run the agent:
 ```bash
 python -m code_generator_agent.py
 ```
